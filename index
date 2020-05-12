@@ -42,4 +42,4 @@ client.on('online', ()=> {
 }));
 
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.NzA5ODA3Nzk3MDQ2NjA3OTEz.XrsBtg.59K6hsiXEgga2cBIESHm7i1uD80);
